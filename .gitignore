@@ -1,0 +1,6 @@
+nbproject
+secure
+*.json
+#allow sample files
+!live1.json
+!matches1.json
